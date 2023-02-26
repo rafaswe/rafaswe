@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahiya Rahman Rafa</h1>
 <h3 align="center">I am a MERN stack Developer</h3>
 
-<p align="right"><img src="https://media.giphy.com/media/wyXoIS52XRVldNa1Qs/giphy.gif" width="400"  alt="" /></p>
+<p align="center"><img src="https://media.giphy.com/media/wyXoIS52XRVldNa1Qs/giphy.gif" width="200"  alt="" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaswe&label=Profile%20views&color=0e75b6&style=flat" alt="rafaswe" /> </p>
 
