@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahiya Rahman Rafa</h1>
-<h3 align="center">I am a MERN stack Developer</h3>
+<h3 align="center">I am a Frontend Developer</h3>
 
 <p align="center"><img src="https://media.giphy.com/media/wyXoIS52XRVldNa1Qs/giphy.gif" width="200" style={border-radius: '50px'}  alt="" /></p>
 
