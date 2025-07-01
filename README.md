@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rahmanmahiya99](https://medium.com/@rahmanmahiya99)
 
-- 💬 Ask me about **C,Java,Python,MERN stack**
+- 💬 Ask me about **JavaSript,React,NEXTJS,Tailwind,Bootstrap**
 
 - 📫 How to reach me **mahiyarahmanrafa@gmail.com**
 
